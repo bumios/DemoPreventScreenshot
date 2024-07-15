@@ -1,0 +1,16 @@
+PODS:
+  - ScreenShield (1.2.1)
+
+DEPENDENCIES:
+  - ScreenShield
+
+SPEC REPOS:
+  trunk:
+    - ScreenShield
+
+SPEC CHECKSUMS:
+  ScreenShield: aa55b56d734da0f8b35d8fd26835c7be033fec66
+
+PODFILE CHECKSUM: 77289a249975baca13dfbc5ca5b8fa5ad1a43b89
+
+COCOAPODS: 1.15.2
